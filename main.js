@@ -17,7 +17,7 @@ const images = [
       "img": "/public/images/derow.jpg",
       "alt": "Derow",
       "date": "Hier le sang",
-      "description": "BG sa mère le big"
+      "description": "BG sa mère le big 🍑"
   },
   {
       "nom": "Singe funambule",
